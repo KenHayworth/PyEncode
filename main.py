@@ -1,6 +1,6 @@
 import EncodeAndDecode
 
-TestString = 'Hello world'
+TestString = 'Hello world!'
 
 print('Encoding: ' + TestString)
 EncodedString = EncodeAndDecode.encode(TestString)
